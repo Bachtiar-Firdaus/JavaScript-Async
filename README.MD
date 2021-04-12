@@ -111,3 +111,5 @@
 ![image](https://user-images.githubusercontent.com/33290851/114155535-cca69c00-994b-11eb-8573-38169ec95daa.png)
 
 ![image](https://user-images.githubusercontent.com/33290851/114155699-f65fc300-994b-11eb-942c-8cb8de246940.png)
+
+Thanks to [Eko Kurniawan Khannedy](https://github.com/khannedy)
